@@ -1,0 +1,34 @@
+.form {
+  padding: 1rem;
+}
+.form label {
+  font-size: 1.2rem;
+  margin: 0.5rem;
+}
+form {
+  border: 1px #b9b9b9 solid;
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 1rem;
+  margin: auto;
+  max-width: 600px;
+  border-radius: 10px;
+}
+
+form input {
+  border: none;
+  margin-bottom: 1rem;
+  padding: 10px;
+  font-size: 1.2rem;
+  border: 1px #b9b9b9 solid;
+  color: #f4f4f4;
+  border-radius: 10px;
+}
+form textarea {
+  margin-bottom: 1rem;
+  padding: 10px;
+  font-size: 1.2rem;
+  border-color: #b9b9b9;
+  color: #f4f4f4;
+  border-radius: 10px;
+}
